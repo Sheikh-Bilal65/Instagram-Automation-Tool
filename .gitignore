@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Excel files
+account.xlsx
+
+# Operating System
+.DS_Store
+Thumbs.db
