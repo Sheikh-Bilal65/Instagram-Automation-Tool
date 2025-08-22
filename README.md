@@ -6,7 +6,34 @@ If this tool has helped you understand or streamline your Instagram automation t
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bilalsheikh)
 
-**Crypto Donation (Binance)**: If you prefer to pay in crypto, send money to my Binance ID: `150697028`
+### 💸 Crypto Donation
+
+If you’d like to support this project, you can donate via cryptocurrency!
+
+#### **Option 1: Binance ID (Direct Transfer for Binance Users)**
+- **Binance ID:** `150697028`
+  - *(This allows instant transfers between Binance accounts. Just use my ID in the “Send via Binance ID” section!)*
+
+#### **Option 2: Direct Wallet Address (BNB Smart Chain BEP20)**
+
+**BNB (Binance Coin, BEP20):**  
+- **Network:** BNB Smart Chain (BEP20)  
+- **Wallet Address:**  
+  `0xef6e84f601441439e809088fe0355ec63b9f0017`
+
+---
+
+**USDT (Tether USD, BEP20):**  
+- **Network:** BNB Smart Chain (BEP20)  
+- **Wallet Address:**  
+  `0xef6e84f601441439e809088fe0355ec63b9f0017`
+
+---
+
+> **Note:**  
+> Do not send NFTs to this address.  
+> For other cryptocurrencies, or if you’d like an ERC20 or TRC20 address, reach out via email or GitHub!
+
 
 ---
 
